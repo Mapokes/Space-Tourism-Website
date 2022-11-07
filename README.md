@@ -1,6 +1,6 @@
 # Space Tourism Website
 
-This is a solution to the [Space tourism website challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3).
+This is solution by Mapokes to the [Space tourism website challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3).
 
 ## Table of contents
 
@@ -48,5 +48,4 @@ Users are able to:
 
 Solution made by Mapokes
 
-- Website - https://github.com/Mapokes
-- Frontend Mentor - https://www.frontendmentor.io/profile/Mapokes
+- Github - https://github.com/Mapokes
