@@ -31,8 +31,8 @@ Users are able to:
 
 ### Links
 
-- Live Site URL: [netlify]()
-- Live Site URL: [gh-pages]()
+- Live Site URL: [netlify](https://guileless-hummingbird-59399c.netlify.app/)
+- Live Site URL: [gh-pages](https://mapokes.github.io/Space-Tourism-Website/)
 
 ## My process
 
