@@ -1,4 +1,4 @@
-fetch("/code/data.json", { cache: "no-store" })
+fetch("./code/data.json", { cache: "no-store" })
   .then((response) => response.json())
   .then((data) => {
     // ==============================
@@ -132,9 +132,9 @@ let toggle = true;
 mobileNavButton.addEventListener("click", () => {
   toggle = !toggle;
   if (toggle) {
-    mobileNavButton.src = "/code/assets/shared/icon-hamburger.svg";
+    mobileNavButton.src = "./code/assets/shared/icon-hamburger.svg";
   } else {
-    mobileNavButton.src = "/code/assets/shared/icon-close.svg";
+    mobileNavButton.src = "./code/assets/shared/icon-close.svg";
   }
   navBar.classList.toggle("active");
 });

@@ -31,9 +31,8 @@ Users are able to:
 
 ### Links
 
-<!-- UPDATE NA STRONIE NETLIFY -->
-
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [netlify]()
+- Live Site URL: [gh-pages]()
 
 ## My process
 
